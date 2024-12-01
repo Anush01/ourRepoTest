@@ -1,5 +1,6 @@
 first words here.
 contribution from feature1 branch by me.
+editing directly on github itself
 
 function coolFunction(){
     execute coolFunction()
@@ -10,3 +11,4 @@ function coolFunction(){
         print("i am boring");
     }
 }
+
