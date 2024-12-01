@@ -1,3 +1,14 @@
 first words here.
 contribution from feature1 branch by me.
 editing directly on github itself
+
+function coolFunction(){
+    execute coolFunction()
+    so cool 
+    nice
+    really cool function
+    for(int i =0; i<10; i++){
+        print("i am boring");
+    }
+}
+
