@@ -1,5 +1,7 @@
 line one
+one here also
 line two
 line 3
 Hello merge
-
+Another Merge Conflict
+Anotherone here also
