@@ -3,3 +3,5 @@ line two
 line 3
 Hello merge
 Hello AMP
+Another Merge Conflict
+Anotherone here also
